@@ -4,12 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-¡Hola! Soy Sh4lps.
+![about](/assets/aboutme.jpg)
 
-Me apasiona la ingeniería inversa y la explotación web. Creé este sitio para compartir mis conocimientos y, de paso, obligarme a redactar de una forma que no sea solo para mí — quiero que cualquiera que llegue a este blog pueda entender cada cosa.
+Hi! I'm Sh4lps.
 
-Estaré subiendo contenido como writeups de CTFs, crackmes de ingeniería inversa (desde lo más básico hasta lo más avanzado), y así ir construyendo un perfil donde predomine la práctica.
+I'm passionate about reverse engineering and web exploitation. I created this site to share my knowledge and, at the same time, force myself to write in a way that's not just for me — I want anyone who lands on this blog to be able to understand everything.
 
-También incluiré investigación sobre temas que me parezcan fascinantes. Ahora mismo no tengo algo definido, pero en el camino iré armando ideas para seguir mejorando mi mentalidad en este mundo tan amplio de la ciberseguridad y el Red Team.
+I'll be uploading content like CTF writeups, reverse engineering crackmes (from the most basic to the most advanced), and in that way, building a profile where **practice predominates**.
 
-Quiero recalcar que no soy ningún experto en esto, pero iré mejorando en el camino.
+I'll also include research on topics I find fascinating. Right now I don't have anything defined, but along the way, I'll be coming up with ideas to keep improving my mindset in this vast world of cybersecurity and Red Team.
+
+I want to emphasize that I'm not an expert in this, but I'll be improving along the way.
