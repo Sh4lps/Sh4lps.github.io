@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![about](/assets/aranaicon.jpg)
+  ![about](/assets/croww.png)
 
 Hi! I'm Shl3pS.
 
