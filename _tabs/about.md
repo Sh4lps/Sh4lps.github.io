@@ -6,12 +6,8 @@ order: 4
 
 ![about](/assets/aboutme.jpg)
 
-Hi! I'm Sh4lps.
+Hi! I'm Shl3pS.
 
-I'm passionate about reverse engineering and web exploitation. I created this site to share my knowledge and, at the same time, force myself to write in a way that's not just for me — I want anyone who lands on this blog to be able to understand everything.
+I’m passionate about web exploitation, reverse engineering, and cybersecurity. I created this blog to share what I learn through CTF write-ups, crackmes, research, and experiments.
 
-I'll be uploading content like CTF writeups, reverse engineering crackmes (from the most basic to the most advanced), and in that way, building a profile where **practice predominates**.
-
-I'll also include research on topics I find fascinating. Right now I don't have anything defined, but along the way, I'll be coming up with ideas to keep improving my mindset in this vast world of cybersecurity and Red Team.
-
-I want to emphasize that I'm not an expert in this, but I'll be improving along the way.
+I don’t consider myself an expert; I’m simply learning and documenting the process. The goal is to improve with every challenge while sharing my discoveries along the way.
