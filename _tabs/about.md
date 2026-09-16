@@ -6,8 +6,9 @@ order: 4
 
   ![about](/assets/croww.png)
 
-Hi! I'm Shl3pS.
 
-I’m passionate about web exploitation, reverse engineering, and cybersecurity. I created this blog to share what I learn through CTF write-ups, crackmes, research, and experiments.
+Hi, I’m Shl3pS.
 
-I don’t consider myself an expert; I’m simply learning and documenting the process. The goal is to improve with every challenge while sharing my discoveries along the way.
+I’m currently learning about Web Security and slowly getting into the world of Bug Bounty. I really enjoy cybersecurity, and it’s something I’m genuinely passionate about.
+
+In the future, I’d like to become a Malware Developer. For now, I’m simply learning, experimenting, and enjoying the process.
