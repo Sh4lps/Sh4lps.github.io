@@ -1,9 +1,9 @@
-# CWL WEB-RTA Review
-
-> **Certification:** WEB-RTA  
-> **Platform:** CyberWarFare Labs  
-> **Focus:** Web Security / Web Exploitation  
-> **Difficulty:** Beginner
+---
+title: CWL WEB-RTA Review
+date: 2026-08-19 12:00:00 -0500
+categories: [Certificaciones, Web]
+tags: [web-rta, cyberwarfare-labs, web-security, pentesting]
+---
 
 ## Introduction
 
