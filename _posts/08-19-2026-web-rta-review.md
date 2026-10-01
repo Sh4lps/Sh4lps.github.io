@@ -33,3 +33,5 @@ What I liked the most was being able to move from studying vulnerabilities theor
 As my first certification, I had a positive experience. It helped me put what I was studying into practice and also identify some areas where I still need to improve.
 
 It is a basic certification, but I think it can be a good starting point for someone beginning their journey into **Web Security and Web Pentesting**.
+
+![Certificado Web-RTA](/assets/web-rta.jpeg)
