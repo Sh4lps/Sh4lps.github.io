@@ -36,4 +36,4 @@ It is a basic certification, but I think it can be a good starting point for som
 
 ![Certificado Web-RTA](/assets/web-rta.jpeg)
 
-# Happy Hacking :)
+- Happy Hacking :)
