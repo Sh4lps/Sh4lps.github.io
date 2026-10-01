@@ -35,3 +35,5 @@ As my first certification, I had a positive experience. It helped me put what I 
 It is a basic certification, but I think it can be a good starting point for someone beginning their journey into **Web Security and Web Pentesting**.
 
 ![Certificado Web-RTA](/assets/web-rta.jpeg)
+
+# Happy Hacking :)
